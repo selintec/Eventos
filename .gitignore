@@ -490,10 +490,7 @@ testem.log
 .DS_Store
 Thumbs.db
 
-#Excluindo DB
-*.db
-*.db-shm
-*.db-wal
+
 Front/ProEventos-App/.angular/cache/babel-webpack/0ab00977d5614ea16f9f753806302644.json
 Front/ProEventos-App/.angular/cache/babel-webpack/0ca632c32a70240d19ef3ea9c87f8fce.json
 Front/ProEventos-App/.angular/cache/babel-webpack/0d43a90c304027fdb7b5f16c327c5b3b.json
