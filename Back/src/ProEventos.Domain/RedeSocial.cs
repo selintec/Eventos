@@ -8,6 +8,6 @@
         public int? IdEvento { get; set; }
         public Evento Evento { get; set; }
         public int IdPalestrante { get; set; }
-        public Palestrante? Palestrante { get; set; }
+        public Palestrante Palestrante { get; set; }
     }
 }
